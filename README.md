@@ -9,3 +9,6 @@ This first version is built within these modules:
 		- MPU9250 INS sensor
 		- NodeMcu (reading some sensors and sending data to Mojo)
 			- SRF02 ultrasonic range finder
+
+Some good tutorials on learning and using Mojo FPGA development board:
+	https://embeddedmicro.com/tutorials/mojo/
